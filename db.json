@@ -1,0 +1,23 @@
+{
+    "projects": [
+            {
+                "id": 1,
+                "title": "photo",
+                "image": "https://images.unsplash.com/photo-1712675670807-f925abe035b3?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 2,
+                "title": "picture",
+                "image": "https://images.unsplash.com/photo-1712481851887-755715d76b3c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyMzF8fHxlbnwwfHx8fHw%3D"
+            },
+            {
+                "id": 3,
+                "title": "brown",
+                "image": "https://images.unsplash.com/photo-1693572774544-bbca04f96800?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNTJ8fHxlbnwwfHx8fHw%3D"
+            }
+        
+        ],
+        "profile": {
+            "name": "typicode"
+        }
+    }
